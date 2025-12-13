@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Amiraallii/amiraallii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amirali 👋 | سلام، من امیرعلی هستم
 
-Here are some ideas to get you started:
+**Backend Developer | .NET / ASP.NET Core | SQL Server | Clean Architecture | Microservices**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧩 About Me | درباره من
+- Backend developer focused on **ASP.NET Core**, **SQL Server**, and scalable architectures.
+- I’m interested in Clean Architecture / DDD, database optimization, and real-time systems (SignalR).
+
+---
+
+## 🛠 Skills | مهارت‌ها
+
+**Backend | بک‌اند**
+- C#, .NET, ASP.NET Core, Web API, MVC, SignalR
+- Authentication/Authorization, JWT, Identity
+
+**Database | دیتابیس**
+- SQL Server, EF Core, Indexing, Query Optimization, Migrations
+- Redis
+
+**Architecture | معماری**
+- Clean Architecture, DDD, CQRS (MediatR), Microservices, Event-driven
+
+**Tools | ابزارها**
+- Git & GitHub, Docker, Redis, Postman, Swagger
+- CI/CD basics, IIS / Windows Server Deployment
+- RabbitMq
+---
+
+## 📌 Projects | پروژه‌ها
+
+1) **PersonalBlog**  
+- Description: Practice project to learn and showcase backend skills.  
+- GitHub: https://github.com/AmiraliII/PersonalBlog
+
+2) **CharvandClub (چروند)**  
+- Description: Social reading platform (ASP.NET Core + SQL Server + SignalR).  
+- Address: charvandclub.com
+
+
+---
+
+## 🤝 Connect | ارتباط
+- Email: amiraliaghaeibs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amiraallii
+
