@@ -35,13 +35,17 @@
 
 ## 📌 Projects | پروژه‌ها
 
-1) **PersonalBlog**  
+1) **CharvandClub (چروند)**  
+- Description: Social reading platform (ASP.NET Core + SQL Server + SignalR).  
+- Address: charvandclub.com
+
+2) **PersonalBlog**  
 - Description: Practice project to learn and showcase backend skills.  
 - GitHub: https://github.com/AmiraliII/PersonalBlog
 
-2) **CharvandClub (چروند)**  
-- Description: Social reading platform (ASP.NET Core + SQL Server + SignalR).  
-- Address: charvandclub.com
+3) **PersonalBlog-fron-end**  
+- Description: Practice project to learn and showcase front-end skills.  
+- Address: amirali.me
 
 
 ---
